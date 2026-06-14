@@ -97,47 +97,17 @@ The project was completed following these steps:
 
 ---
 
-## ▶️ How to Run the Project
-
-### Option 1: Google Colab
-
-1. Upload the notebook (`.ipynb`) to Google Colab.
-2. Upload the datasets:
-   - plans.csv
-   - users_latam.csv
-   - usage.csv
-3. Update file paths if necessary.
-4. Run all cells from top to bottom.
-
-### Option 2: Jupyter Notebook
-
-1. Clone the repository.
-2. Install required libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-3. Open the notebook:
-
-```bash
-jupyter notebook
-```
-
-4. Run all notebook cells.
-
----
-
 ## 🔁 Reproducibility Guide
 
 To reproduce the analysis:
 
-1. Download the repository.
-2. Place all datasets in the correct directory.
-3. Install the required Python libraries.
-4. Execute the notebook from beginning to end.
-5. Review the visualizations, segmentation results, and executive recommendations.
-
+1. Download or clone this repository.
+2. Obtain the original datasets used in the project.
+3. Place the datasets in the paths referenced by the notebook.
+4. Install the required Python libraries.
+5. Execute all notebook cells sequentially.
+6. Review the statistical analysis, visualizations, customer segmentation, and business recommendations.
+   
 ---
 
 ## 👤 Author
